@@ -1,0 +1,21 @@
+Module 7
+
+Broken Code in BooTheDog
+
+1. Added a h1 brackets to make page title Boo The Dog Fan Page! bigger.
+
+2. Added paragraph brackets to each paragraph in panel-body.
+
+3. Added opening and closing <> to surround img class "img-responsive".
+
+4.Added "" to each booFacts in the javascript code.
+
+5. Added <li></li> brackets around each list item in the ordered List Of Boo's Favorite Things.
+
+6. Added "" around pink in: $("#funText").css("color", "pink") logic.js code
+
+7. Changed errors.js to logic.js in: <script type="text/javascript" src="logic.js"></script>.
+
+8. Change button names to match color displayed when pressed I could have changed the color to match the name as well.
+
+9. Added "" around click un logic.js code for boxShrink and boxGrown animations.
